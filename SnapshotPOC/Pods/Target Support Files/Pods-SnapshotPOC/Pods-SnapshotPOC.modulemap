@@ -1,0 +1,6 @@
+framework module Pods_SnapshotPOC {
+  umbrella header "Pods-SnapshotPOC-umbrella.h"
+
+  export *
+  module * { export * }
+}
